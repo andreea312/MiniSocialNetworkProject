@@ -1,2 +1,2 @@
-# Projects
-Here are some projects I have worked on as a Computer Science student...
+# MiniSocialNetworkProject
+Made in IntelliJ using Gradle, JavaFX for the interface and Postgres for the database.
