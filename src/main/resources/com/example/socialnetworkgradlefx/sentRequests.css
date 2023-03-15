@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: #b30059;
+}
+
+#unsendRequestButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.table-view .column-header .label{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}

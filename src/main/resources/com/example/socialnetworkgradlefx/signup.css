@@ -1,0 +1,18 @@
+.root{
+    -fx-background-color: #b30059;
+}
+
+#signupButton {
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: #b30059;
+    -fx-font-weight: bold;
+}
+
+#signupLabel{
+    -fx-text-fill: #ff66b3;
+    -fx-font-weight: bold;
+}
+
+#loginHyperlink{
+    -fx-color: #ffffff;
+}

@@ -1,0 +1,13 @@
+1,Ani,Oltean,ani.oltean@gmail.com
+2,Andreea,Negoitescu,andreea.negoitescu@gmail.com
+3,Andreea,Oniga,andreea.oniga@gmail.com
+4,Bettina,Jurcan,betti.jurcan@gmail.com
+5,Petronela,Petric,petro.petric@gmail.com
+6,Giulia,Levai,giulia_levai@gmail.com
+7,Cosmin,Popa,cosmin@gmail.com
+8,Stefan,Neacsu,stefann@gmail.com
+9,Mihai,Ionescu,mihaiioni@gmail.com
+10,Denisa,Oltean,denioltean@gmail.com
+11,Mihai,Panduru,mihai._p@gmail.com
+12,Razvan,Petec,razvi@gmail.com
+13,Ami,Gruian,amigr@gmail.com

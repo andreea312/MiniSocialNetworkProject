@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="450.0" stylesheets="@receivedRequests.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.socialnetworkgradlefx.controller.ReceivedRequestsController">
+    <children>
+        <TableView fx:id="tableView3" layoutX="146.0" prefHeight="400.0" prefWidth="417.0" style="-fx-selection-bar: #ffb3d9; -fx-selection-bar-non-focused: #ffe6f2;">
+            <columns>
+                <TableColumn fx:id="firstNameColumn3" prefWidth="110.0" text="First Name" />
+                <TableColumn fx:id="lastNameColumn3" prefWidth="110.0" text="Last Name" />
+                <TableColumn fx:id="dateColumn" prefWidth="130.0" text="Date" />
+                <TableColumn fx:id="statusColumn" prefWidth="70.0" text="Status" />
+            </columns>
+        </TableView>
+        <Button fx:id="acceptRequestButton" layoutX="28.0" layoutY="116.0" mnemonicParsing="false" onAction="#acceptRequestButtonClicked" prefHeight="25.0" prefWidth="87.0" text="Accept" />
+        <Button fx:id="denyRequestButton" layoutX="28.0" layoutY="271.0" mnemonicParsing="false" onAction="#denyRequestButtonClicked" prefHeight="25.0" prefWidth="87.0" text="Deny" />
+      <Label layoutX="1.0" layoutY="6.0" text="You received requests from" textFill="WHITE" />
+    </children>
+</AnchorPane>

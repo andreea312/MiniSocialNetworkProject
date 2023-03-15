@@ -1,0 +1,32 @@
+.root{
+    -fx-background-color: #b30059;
+}
+
+#searchLabel {
+    -fx-text-fill: #ff66b3;
+    -fx-font-weight: bold;
+}
+
+#sendFriendshipRequestButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#searchButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#requestsButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.table-view .column-header .label{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}

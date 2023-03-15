@@ -1,0 +1,45 @@
+.root{
+    -fx-background-color:  #b30059;  /* #9C0D38 #FBACBE #A01A7D #F6BDD1 #A01A7D */
+}
+
+#logoutButton{
+    -fx-background-color: #ff66b3; /* #FCB5B5 */
+    -fx-text-fill: #b30059;
+    -fx-font-weight: bold;
+}
+
+#chatButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#addFriendButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#deleteFriendButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#receivedRequestsButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#sentRequestsButton{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.table-view .column-header .label{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: #b30059;
+    -fx-font-weight: bold;
+}

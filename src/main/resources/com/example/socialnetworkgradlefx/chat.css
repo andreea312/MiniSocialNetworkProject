@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: #b30059;
+}
+.combo-box-popup .list-view .list-cell:hover {
+    -fx-text-fill: #b30059;;
+}
+.table-view .column-header .label{
+    -fx-background-color: #ff66b3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
