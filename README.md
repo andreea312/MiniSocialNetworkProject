@@ -1,2 +1,2 @@
 # MiniSocialNetworkProject
-Made in IntelliJ using Gradle, JavaFX for the interface and Postgres for the database.
+Made in IntelliJ using Gradle, JavaFX for the interface and PostgreSQL for the database.
